@@ -33,7 +33,7 @@ Users can control the robot remotely through a computer or phone connected to th
 The system must recognize a wide range of devices to facilitate the use of the robot.
 
 # WBS
-![Colorful Work Breakdown Structure](https://github.com/Zucchy00/MecanumPi/assets/101174771/f6201000-e07e-4f35-9d00-4ce9f19a9be0)
+![Colorful Work Breakdown Structure](![image](https://github.com/user-attachments/assets/d9256b58-dcb6-4562-a6be-22be614cbb31)
 
 # Value Proposition
 ## Simplify your work with MecanumPi
