@@ -12,9 +12,9 @@ Repository creata a fini di scopo scolastico
 
 # Progetto Robot
 # Problema
-L'uomo è impreciso/sbaglia/perde quando vengono trasportati tanti oggetti di piccole dimensioni, quando bisogna fare un lavoro preciso e continuo suguendo una linea precisa e quando bisogna fare movimenti precisi e veloci 
+Permettere ad un macchinario di muoversi in tutte le direzioni è sempre stato un problema per l'uomo.
 # Obbiettivo
-Trasportare oggetti di varie dimensioni e peso da un punto preciso ad un altro, seguire/disegnare/mantenere oggetti seguendo una linea con precisione, fare movimenti precisi e rapidi
+Creare un robot che si sposti in tutte le direzioni
 # Funzionalità
 * ## Associazione
   ### Requisiti Funzionali:
