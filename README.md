@@ -80,6 +80,7 @@ Simplify your tasks with MecanumPi, an automated robot with a web interface acce
 * Attach the Raspberry Pi to a touchscreen monitor (7-inch in my case).
 * Install a webcam on the Raspberry Pi (I use the Raspberry Pi Camera Module 3 Noir-Wide).
 * Connect the Raspberry Pi to a power bank (50W minimum recommended).
+* L298N Motor Driver
 * Download this repository.
 * Download the node modules.
 * Start the web server (host mode recommended).
