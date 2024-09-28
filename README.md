@@ -1,95 +1,98 @@
-Repository creata a fini di scopo scolastico 
+Here is the README file translated into English:
 
-## Sezioni
-* ### [Problema](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#problema-1)
-* ### [Obbiettivo](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#obbiettivo-1)
-* ### [Funzionalità](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#funzionalit%C3%A0-1)
+Repository created for educational purposes
+
+## Sections
+* ### [Problem](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#problema-1)
+* ### [Objective](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#obbiettivo-1)
+* ### [Features](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#funzionalit%C3%A0-1)
 * ### [WBS](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#wbs-1)
 * ### [Value Proposition](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#value-proposition-1)
 * ### [User Stories](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#user-stories-1)
 * ### [Multi Tenancy](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#multi-tenancy-1)
-* ### [Come fare il tuo robot](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#come-fare-il-tuo-robot-1)
+* ### [How to Make Your Robot](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#come-fare-il-tuo-robot-1)
 
-# Progetto Robot
-# Problema
-Permettere ad un macchinario di muoversi in tutte le direzioni è sempre stato un problema per l'uomo.
-# Obbiettivo
-Creare un robot che si sposti in tutte le direzioni
-# Funzionalità
-* ## Associazione
-  ### Requisiti Funzionali:
-* ###  Associazione tramite codice
-Gli utenti hanno la possibilità di connettersi a un robot nella propria rete locale tramite un codice temporaneo
-* ## Requisiti d'uso
-  ### Requisiti Funzionali:
-* ### Controllo da locale
-Gli utenti hanno la possibilità di comandare il robot da locale tramite l'apposito schermo o connettendo un gamepad
-* ### Controllo da remoto
-Gli utenti hanno la possibilità di comandare il robot da remoto tramite un computer o un telefono connesso alla stessa rete e connettendo un gamepad al computer o al telefono connesso
-  ### Requisiti Non Funzionali:
-* ### Ampia Compatibilità:
-Il sistema deve riconoscere un ampia gamma di dispositivi per facilitare l'utilizzo del robot
+# Robot Project
+# Problem
+Allowing a machine to move in all directions has always been a challenge for humans.
+# Objective
+To create a robot that can move in all directions.
+# Features
+* ## Association
+  ### Functional Requirements:
+* ### Association via Code
+Users can connect to a robot on their local network via a temporary code.
+* ## Usage Requirements
+  ### Functional Requirements:
+* ### Local Control
+Users can control the robot locally using a screen or by connecting a gamepad.
+* ### Remote Control
+Users can control the robot remotely through a computer or phone connected to the same network, with the gamepad connected to either the computer or phone.
+  ### Non-Functional Requirements:
+* ### Broad Compatibility:
+The system must recognize a wide range of devices to facilitate the use of the robot.
 
 # WBS
 ![Colorful Work Breakdown Structure](https://github.com/ZucchelliDaniele/Progetto_Robot/assets/101174771/f6201000-e07e-4f35-9d00-4ce9f19a9be0)
 
-
 # Value Proposition
-## Semplifica il tuo lavoro con MecanumPi
-### Lavoro preciso e facile
-Semplifica i tuoi lavori tramite MecanumPi, un robot automatizzato con interfaccia web utilizzabile da ogni dispositivo. Personalizza il tuo lavoro nel metodo più semplice tramite movimenti precisi e veloci. Controlla il tuo robot a distanza in tempo reale tramite 4 ruote motrici con gestione dei movimenti distinti che permettono movimenti in ogni direzione. Vivi il tuo lavoro vedendolo in tempo reale tramite la telecamera grandangolare ad alta qualità. Sfrutta il tuo robot anche al buio o in spazi ombreggiati tramite la visione notturna. 
-### Caratteristiche
-* Sistema Omnidirezionale
-* Telecamera grandangolare ad alta risoluzione
-* Visione Notturna
-* Controllo da remoto da più dispositivi
-* Sistema preciso con valori in tempo reale
-# User stories
-## Utente Generico 
-* Come utente generico voglio poter connettermi al robot tramite un codice associato sullo schermo
-## Utente Salvato/Connesso
-* Come utente salvato/connesso voglio poter visualizzare l'interfaccia web del robot e poterlo utilizzare correttamente
-* Come utente salvato/connesso voglio poter connettermi e sconnettermi ad altri robot presenti nella rete
-## Controllo locale
-* Come utente connesso tramite controllo locale voglio poter utilizzare il mio robot direttamente da esso con dispositivi di input annessi (gamepad, touchscreen) senza l'utilizzo di dispositivi esterni (smartphone, PC, ecc..)
-## Controllo remoto
-* Come utente connesso tramite controllo remoto voglio poter utilizzare il mio robot da distanza ed avere un'esperienza al più simile a quella del controllo locale, non saranno obbligatori dispositivi di input annessi al robot (gamepad, touchscreen), ma che siamo solamente facoltativi rispetto ai dispositivi esterni (smartphone o/e PC, ecc..)
-## Visualizzazione spazio fisico
-* Come utente connesso tramite controllo remoto e/o locale voglio poter visualizzare lo spazio fisico davanti al robot tramite una telecamera in qualsiasi condizione di luce (giorno e notte)
-## Trasposto oggetti
-* Come utente connesso in locale voglio poter trasportare degli oggetti adeguati tramite i dispositivi annessi al robot o esterni
-## Staff 
-* Come utente "staff" voglio poter aggiornare e migliorare il codice dei robot prodotti tramite la pubblicazione di nuove versioni su questo github
+## Simplify your work with MecanumPi
+### Precise and easy work
+Simplify your tasks with MecanumPi, an automated robot with a web interface accessible from any device. Customize your tasks in the simplest way with precise and fast movements. Control your robot remotely in real time with 4 powered wheels that allow movement in all directions. Experience your work in real time with a high-quality wide-angle camera. Use your robot in the dark or in shadowy spaces with night vision.
+### Features
+* Omnidirectional System
+* High-resolution wide-angle camera
+* Night Vision
+* Remote control from multiple devices
+* Precise system with real-time data
+
+# User Stories
+## Generic User 
+* As a generic user, I want to be able to connect to the robot via a code displayed on the screen.
+## Saved/Connected User
+* As a saved/connected user, I want to view the robot’s web interface and use it properly.
+* As a saved/connected user, I want to connect and disconnect from other robots on the network.
+## Local Control
+* As a user connected via local control, I want to use my robot directly with input devices (gamepad, touchscreen) without the need for external devices (smartphone, PC, etc.).
+## Remote Control
+* As a user connected via remote control, I want to use my robot from a distance and have an experience as close as possible to local control. Input devices connected to the robot (gamepad, touchscreen) should be optional compared to external devices (smartphone or PC).
+## Physical Space Visualization
+* As a user connected via remote and/or local control, I want to see the physical space in front of the robot through a camera under any lighting condition (day or night).
+## Object Transport
+* As a local user, I want to be able to transport appropriate objects using devices attached to the robot or external devices.
+## Staff
+* As a “staff” user, I want to update and improve the code of produced robots by publishing new versions on this GitHub.
+
 ![Alt UML](https://yuml.me/diagram/usecase/[Visitor]-(Login),(Login)<(Contact%20Staff),[Visitor]-(Register),[Visitor]-(Buy%20Robot),(Buy%20Robot)>(Contact%20Staff),(Login)<(Reset%20Password),[Registered%20User]-(Add%20Robot),[Registered%20User]-(Remove%20Robot),(Add%20Robot)<(See%20Analytics),(Add%20Robot)<(Control%20Robot),[Registered%20User]-(Use%20Remote%20Connected%20Phone%20/%20PC),(Use%20Remote%20Connected%20Phone%20/%20PC)<(Use%20Gamepad),(Control%20Robot)<(Use%20Gamepad),[Office%20Staff]-(Add%20functionalities),)
 
 # Multi Tenancy
 ## Login / Register
-* L'utente deve recarsi fisicamente al robot per aggiungere il proprio dispositivo tramite un codice univoco e casuale
-* Ogni dispositivo si autentica automaticamente nel caso sia stato già registrato
-* Ogni dispositivo viene rimosso dopo 7 giorni di inutilizzo del robot
-* Ad ogni utilizzo viene aggiornata la lista degli utilizzi del robot
-## Utilizzo
-* Ogni utente ha la possibilità di comandare il robot a distanza, tuttavia se più utenti vogliono comandare lo stesso robot la richiesta di utilizzo verrà inviata all'utente che lo sta utilizzando in quel momento
-* Ogni utente ha la possibilità di visualizzare i robot presenti all'interno della rete e accedervi ad essi tramite i passaggi precedentemente descritti
-* Ogni utente ha la possibilità di visualizzare la telecamera presente sul robot e tener visivamente traccia dell'utilizzo
-* L'utente che comanda il robot direttamente da esso e non mediante un altro dispositivo ha il controllo del robot e può rimuovere il controllo agl'altri utenti
+* The user must physically go to the robot to add their device using a unique and random code.
+* Each device is automatically authenticated if it has already been registered.
+* Each device is removed after 7 days of inactivity with the robot.
+* With each use, the list of robot interactions is updated.
+## Usage
+* Each user has the ability to control the robot remotely, but if multiple users want to control the same robot, a request for control will be sent to the current user.
+* Each user can view the robots available on the network and access them as described earlier.
+* Each user can view the camera on the robot and visually track its usage.
+* The user controlling the robot directly, rather than through another device, has primary control and can revoke control from other users.
 
-# Come fare il tuo robot
-## Setup del raspberry pi
-* Prendi una scheda micro sd e installa raspberry pi Bullseye (64bit)
-* Mettila nel tuo raspberry (consigliato il 4)
-* Installa il raspberry ad un monitor touch (7 pollici nel mio caso)
-* Installa la webcam nel raspberry (utilizzo la raspberry pi camera module 3 Noir-Wide)
-* Attacca il raspberry ad un powerbank (consigliabili almeno 50W)
-* Scarica questa repository
-* Scarica i node modules
-* Avvia il server web (consigliabile la modalità host)
-* Avvia il server nodejs in backend
-* Avvia i server python websocket e camera
-* Preferibilmente crea dei service per avviare i server automaticamente
-## Modelli 3D
+# How to Make Your Robot
+## Raspberry Pi Setup
+* Take a micro SD card and install Raspberry Pi Bullseye (64bit).
+* Insert it into your Raspberry Pi (model 4 recommended).
+* Attach the Raspberry Pi to a touchscreen monitor (7-inch in my case).
+* Install a webcam on the Raspberry Pi (I use the Raspberry Pi Camera Module 3 Noir-Wide).
+* Connect the Raspberry Pi to a power bank (50W minimum recommended).
+* Download this repository.
+* Download the node modules.
+* Start the web server (host mode recommended).
+* Start the backend Node.js server.
+* Start the Python WebSocket and camera servers.
+* Preferably, create services to start the servers automatically.
+
+## 3D Models
 * ### [PowerBank](https://github.com/ZucchelliDaniele/Progetto_Robot/blob/b7cdaec23b4a2052f64a399bd6fec9496ad9d125/Robot3DModels/PowerBank.stl)
 * ### [PiCase](https://github.com/ZucchelliDaniele/Progetto_Robot/blob/09322e6c2641f126dbb73ce9fab60052f773395a/Robot3DModels/PiCase.stl)
-* ### Esempio:
+* ### Example:
   ![image](https://github.com/ZucchelliDaniele/Progetto_Robot/assets/101174771/76996312-f0ec-4c12-a43b-170aaf0a8d02)
-
