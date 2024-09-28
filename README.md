@@ -5,12 +5,12 @@ Repository created for educational purposes
 ## Sections
 * ### [Problem](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#Problem-1)
 * ### [Objective](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#Objective-1)
-* ### [Features](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#features)
+* ### [Features](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#features-1)
 * ### [WBS](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#wbs-1)
 * ### [Value Proposition](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#value-proposition-1)
 * ### [User Stories](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#user-stories-1)
 * ### [Multi Tenancy](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#multi-tenancy-1)
-* ### [How to Make Your Robot](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#come-fare-il-tuo-robot-1)
+* ### [How to Make Your Robot](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#how-to-make-your-robot-1)
 
 # Robot Project
 # Problem
