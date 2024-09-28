@@ -3,9 +3,9 @@ Here is the README file translated into English:
 Repository created for educational purposes
 
 ## Sections
-* ### [Problem](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#problema-1)
-* ### [Objective](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#obbiettivo-1)
-* ### [Features](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#funzionalit%C3%A0-1)
+* ### [Problem](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#Problem-1)
+* ### [Objective](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#Objective-1)
+* ### [Features](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#Features%C3%A0-1)
 * ### [WBS](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#wbs-1)
 * ### [Value Proposition](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#value-proposition-1)
 * ### [User Stories](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#user-stories-1)
