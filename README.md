@@ -1,8 +1,5 @@
 Repository creata a fini di scopo scolastico 
 
-### Questa repository è utilizzata soltanto per mantenere le routes necessarie al completamento della versione in Sveltekit. Attualmente l'unica versione con middleware funzionante è quella in Sveltekit ( è consigliabile utilizzare la versione in Sveltekit per un esperienza migliore e completa perdendo l'utilizzo delle routes di automazione )
-Conversione del sito in SvelteKit Repo: https://github.com/ZucchelliDaniele/Progetto_Robot_SvelteKit
-
 ## Sezioni
 * ### [Problema](https://github.com/ZucchelliDaniele/Progetto_Robot?tab=readme-ov-file#problema-1)
 * ### [Obbiettivo](https://github.com/ZucchelliDaniele/Progetto_Robot?tab=readme-ov-file#obbiettivo-1)
