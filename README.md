@@ -31,7 +31,7 @@ Users can control the robot remotely through a computer or phone connected to th
 The system must recognize a wide range of devices to facilitate the use of the robot.
 
 # WBS
-![Colorful Work Breakdown Structure](https://github.com/ZucchelliDaniele/Progetto_Robot/assets/101174771/f6201000-e07e-4f35-9d00-4ce9f19a9be0)
+![Colorful Work Breakdown Structure](![image](https://github.com/user-attachments/assets/3c52660a-2e95-4ae9-9e7e-b4267579ec59)
 
 # Value Proposition
 ## Simplify your work with MecanumPi
@@ -60,8 +60,6 @@ Simplify your tasks with MecanumPi, an automated robot with a web interface acce
 * As a local user, I want to be able to transport appropriate objects using devices attached to the robot or external devices.
 ## Staff
 * As a “staff” user, I want to update and improve the code of produced robots by publishing new versions on this GitHub.
-
-![Alt UML](https://yuml.me/diagram/usecase/[Visitor]-(Login),(Login)<(Contact%20Staff),[Visitor]-(Register),[Visitor]-(Buy%20Robot),(Buy%20Robot)>(Contact%20Staff),(Login)<(Reset%20Password),[Registered%20User]-(Add%20Robot),[Registered%20User]-(Remove%20Robot),(Add%20Robot)<(See%20Analytics),(Add%20Robot)<(Control%20Robot),[Registered%20User]-(Use%20Remote%20Connected%20Phone%20/%20PC),(Use%20Remote%20Connected%20Phone%20/%20PC)<(Use%20Gamepad),(Control%20Robot)<(Use%20Gamepad),[Office%20Staff]-(Add%20functionalities),)
 
 # Multi Tenancy
 ## Login / Register
@@ -93,7 +91,8 @@ Simplify your tasks with MecanumPi, an automated robot with a web interface acce
 * ### [PowerBank](https://github.com/Zucchy00/MecanumPi/blob/main/Robot3DModels/PowerBank.stl)
 * ### [PiCase](https://github.com/Zucchy00/MecanumPi/blob/main/Robot3DModels/PiCase.stl)
 * ### Example:
-  ![image](https://github.com/ZucchelliDaniele/Progetto_Robot/assets/101174771/76996312-f0ec-4c12-a43b-170aaf0a8d02)
+  ![image](https://github.com/user-attachments/assets/b084665d-f70f-46ab-9e12-911b1f8f5c72)
+
 
 
 # Start-server
