@@ -1,5 +1,3 @@
-Here is the README file translated into English:
-
 Repository created for educational purposes
 
 ## Sections
