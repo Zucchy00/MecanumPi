@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link id="icon" rel="icon" sizes="256x256" type="image/gif" href="%sveltekit.assets%/ControlFalse.gif" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		%sveltekit.head%
+		<title>MecanumPi</title>
+	</head>
+	<body data-sveltekit-preload-data="hover" class="bg-white-gray dark:bg-black-gray transition ease-in dark:ease-out duration-1000">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+	<style>
+		/* Hide the scrollbar */
+		::-webkit-scrollbar {
+			display: none; /* Hide the scrollbar in webkit (Chrome, Safari, Edge) */
+			}
+	</style>
+</html>
+<script>
+	if (localStorage.theme === 'dark') {
+        document.documentElement.classList.add('dark')
+    } else {
+        document.documentElement.classList.remove('dark')
+    }
+	checkLogin()
+	async function checkLogin() {
+		try {
+			// Make a GET request to check the user's login status
+			const response = await fetch(getUrlWithNoPort() + ':3000/status', {
+				method: 'GET',
+				credentials: 'include' // This ensures cookies are sent with the request
+			});
+
+			if (!response.ok) {
+				throw new Error('Network response was not ok');
+			}
+
+			const data = await response.json();
+			var login = data.loggedIn;
+			if(login) checkPermission()
+			else {
+				document.getElementById("icon").href = "%sveltekit.assets%/Blocked.png"
+			}
+		} catch (error) {
+			console.error('Login Status Error:', error);
+		}
+	}
+	async function checkPermission() {
+		try {
+			// Make a GET request to check the user's login status
+			const response = await fetch(getUrlWithNoPort() + ':3000/controlPermission', {
+				method: 'GET',
+				credentials: 'include' // This ensures cookies are sent with the request
+			});
+
+			if (!response.ok) {
+				throw new Error('Network response was not ok');
+			}
+
+			const data = await response.json();
+			var permission = data.control;
+			if(permission) document.getElementById("icon").href = "%sveltekit.assets%/ControlTrue.gif"
+			else document.getElementById("icon").href = "%sveltekit.assets%/ControlFalse.gif"
+			setTimeout(()=>{checkPermission()},5000)
+		} catch (error) {
+			console.error('Login Status Error:', error);
+		}
+	}
+	function getUrlWithNoPort() {
+		const url = window.location.href;
+		const parsedUrl = new URL(url);
+		const baseUrl = `${parsedUrl.protocol}//${parsedUrl.hostname}`;
+		return baseUrl;
+	}
+</script>
