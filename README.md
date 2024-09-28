@@ -96,23 +96,23 @@ Simplify your tasks with MecanumPi, an automated robot with a web interface acce
   ![image](https://github.com/ZucchelliDaniele/Progetto_Robot/assets/101174771/76996312-f0ec-4c12-a43b-170aaf0a8d02)
 
 
-# create-svelte
+# Start-server
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+## Install packages
 
-## Creating a project
+for node `npm install` for python start them on your rpi with the camera connected and install the missing libraries.
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Node
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+Start node server in backend folder with `node filename.js`.
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Python
 
-## Developing
+Start python servers in backend/pythonServers folder with `python3 filename.py`.
+
+## Svelte
+
+### Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
@@ -123,7 +123,7 @@ npm run dev
 npm run dev -- --open
 ```
 
-## Building
+### Building
 
 To create a production version of your app:
 
@@ -133,4 +133,5 @@ npm run build
 
 You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Use `-- --host --port 80` to host in all your private network.
+
