@@ -90,8 +90,8 @@ Simplify your tasks with MecanumPi, an automated robot with a web interface acce
 * Preferably, create services to start the servers automatically.
 
 ## 3D Models
-* ### [PowerBank](https://github.com/Zucchy00/MecanumPi/blob/b7cdaec23b4a2052f64a399bd6fec9496ad9d125/Robot3DModels/PowerBank.stl)
-* ### [PiCase](https://github.com/Zucchy00/MecanumPi/blob/09322e6c2641f126dbb73ce9fab60052f773395a/Robot3DModels/PiCase.stl)
+* ### [PowerBank](https://github.com/Zucchy00/MecanumPi/blob/main/Robot3DModels/PowerBank.stl)
+* ### [PiCase](https://github.com/Zucchy00/MecanumPi/blob/main/Robot3DModels/PiCase.stl)
 * ### Example:
   ![image](https://github.com/ZucchelliDaniele/Progetto_Robot/assets/101174771/76996312-f0ec-4c12-a43b-170aaf0a8d02)
 
