@@ -43,7 +43,7 @@ Semplifica i tuoi lavori tramite MecanumPi, un robot automatizzato con interfacc
 * Telecamera grandangolare ad alta risoluzione
 * Visione Notturna
 * Controllo da remoto da più dispositivi
-* Sistema preciso con previsioni in tempo reale
+* Sistema preciso con valori in tempo reale
 # User stories
 ## Utente Generico 
 * Come utente generico voglio poter connettermi al robot tramite un codice associato sullo schermo
