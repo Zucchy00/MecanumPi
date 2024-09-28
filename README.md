@@ -8,7 +8,7 @@ Repository created for educational purposes
 * ### [Value Proposition](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#value-proposition-1)
 * ### [User Stories](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#user-stories-1)
 * ### [Multi Tenancy](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#multi-tenancy-1)
-* ### [How to Make Your Robot](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#come-fare-il-tuo-robot-1)
+* ### [How to Make Your Robot](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#how-to-make-your-robot-1)
 
 # Robot Project
 # Problem
@@ -90,8 +90,8 @@ Simplify your tasks with MecanumPi, an automated robot with a web interface acce
 * Preferably, create services to start the servers automatically.
 
 ## 3D Models
-* ### [PowerBank](https://github.com/ZucchelliDaniele/Progetto_Robot/blob/b7cdaec23b4a2052f64a399bd6fec9496ad9d125/Robot3DModels/PowerBank.stl)
-* ### [PiCase](https://github.com/ZucchelliDaniele/Progetto_Robot/blob/09322e6c2641f126dbb73ce9fab60052f773395a/Robot3DModels/PiCase.stl)
+* ### [PowerBank](https://github.com/Zucchy00/MecanumPi/blob/b7cdaec23b4a2052f64a399bd6fec9496ad9d125/Robot3DModels/PowerBank.stl)
+* ### [PiCase](https://github.com/Zucchy00/MecanumPi/blob/09322e6c2641f126dbb73ce9fab60052f773395a/Robot3DModels/PiCase.stl)
 * ### Example:
   ![image](https://github.com/ZucchelliDaniele/Progetto_Robot/assets/101174771/76996312-f0ec-4c12-a43b-170aaf0a8d02)
 
