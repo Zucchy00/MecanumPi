@@ -2,7 +2,7 @@ Repository created for educational purposes
 
 ## Sections
 * ### [Problem](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#problem-1)
-* ### [Objective](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#bbjective-1)
+* ### [Objective](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#objective-1)
 * ### [Features](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#features-1)
 * ### [WBS](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#wbs-1)
 * ### [Value Proposition](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#value-proposition-1)
