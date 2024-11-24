@@ -1,5 +1,7 @@
 Repository created for educational purposes
 
+YT: https://youtu.be/g4o41eXRbZU?si=pJWVFO3Za3_mcHig
+
 ## Sections
 * ### [Problem](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#problem-1)
 * ### [Objective](https://github.com/Zucchy00/MecanumPi?tab=readme-ov-file#objective-1)
